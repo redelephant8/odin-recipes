@@ -1,0 +1,36 @@
+body {
+    background-color: lightgoldenrodyellow;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    font-size: 35px;
+    color: darkblue;
+    text-decoration: underline;
+}
+
+h2, h3 {
+    color: red;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+ul, ol, p {
+    font-size: 18px;
+}
+
+b {
+    color: red;
+}
+
+img {
+    border: 5px solid black;
+}
+
+body.home {
+    background-color: rgb(213, 247, 213);
+}
+
+.home_list {
+    font-size: 25px;
+}
